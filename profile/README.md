@@ -1,1 +1,1 @@
-[!Lyon Banner](/profile/images/banner.png)
+[![Lyon Banner](/profile/images/banner.png)]
